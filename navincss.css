@@ -1,0 +1,18 @@
+  a:link{
+
+	  color:gray
+
+  }
+  a:visited {
+
+	  color:green
+  }
+  a:hover{
+
+	  color:purple
+
+  }
+  a:active change while 2nd{{
+	
+	  color:teal;
+  }
