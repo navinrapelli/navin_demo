@@ -4,6 +4,6 @@
 	<meta charset="UTF-8">
 	<title>My web page</title>
 	<script>
-	aleart('Hellow Navin')
+	alear('changes from js Hellow Navin')
         </scipt>
 	</head>
