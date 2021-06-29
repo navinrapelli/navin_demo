@@ -11,6 +11,7 @@ const  NewsCart=({item}) =>{
 
     return (
         <div className="newsCard">
+        {/* // eslint-disable-next-line  */}
         <a  href="https://assets.mspimages.in"><img style={{width:500}}  alt={item.titile} src={item.urlToImage?item.urlToImage:blank1}></img></a>
         <div className="newstext">
           <div>
