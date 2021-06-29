@@ -1,0 +1,122 @@
+
+
+body{
+  
+
+    
+    background:url('/Img/Papercutting.jpg') no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.content{
+   
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: minmax(500px ,auto);
+    grid-gap: 10px;
+
+
+}
+.content div{
+
+    background-color:lightslategray;
+    padding: 20px;
+}
+
+.one{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+}
+.two{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+
+
+}
+.three{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 5px;
+
+    
+
+}
+.five{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+    background-color: lightcoral;
+
+
+}
+
+.three p{
+
+    border: rgb(167, 112, 112) solid;
+    background-color: lightcoral;
+    padding:10px;
+    margin: 0;
+
+
+
+}
+
+.three p img{
+
+    height: 300px;
+}
+.four{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 10px;
+}
+
+.four p img{
+    height: 30px;
+    image-orientation: initial;
+}
+
+.four p{
+
+    border: rgb(167, 112, 112) solid;
+    padding:10px;
+    margin: 0;
+    background-color: lightcoral;
+
+
+
+}
+
+
+
+
+
+header img{
+
+width: 50%;
+align-content: center;
+}
+header{
+    background-color:lightcoral;
+    position: relative;
+}
+header p{
+
+    color: white;
+    font-size: 30px;
+    
+    
+}

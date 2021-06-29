@@ -1,0 +1,233 @@
+body{
+    
+    background:url('snackback.jpg') no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color:black;
+    text-align: center;
+}
+
+
+.rest{
+   
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: minmax(100px ,auto);
+    grid-gap: 20px;
+
+
+}
+
+.rest header
+{
+
+    background-color: chocolate;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: black solid;
+    
+}
+
+.one{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+}
+
+.rest .two{
+
+  background-color: chocolate;
+    
+    font-size: 20px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.two{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+
+}
+
+.two p{
+
+    background-color:white;
+    padding: 35px;
+    border: black solid;
+
+}
+
+
+.rest .three{
+
+
+
+
+    background-color: chocolate;
+    font-size: 20px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.three{
+    grid-column-start: 1;
+    grid-column-end: 6;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+
+}
+
+.three p{
+
+    
+   
+
+    background-color:white;
+    padding: 20px;
+    border: black solid;
+
+}
+
+
+
+
+.three p img{
+
+
+    
+
+    height: 300px;
+}
+
+.rest .four{
+
+    background-color: chocolate;
+
+   font-size: 20px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.four{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+
+}
+
+.four ul{
+
+    background-color:white;
+    padding:20px;
+    text-align: left;
+    border: black solid;
+
+}
+
+
+
+
+
+.rest .five{
+
+
+    background-color: chocolate;
+   font-size: 20px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+
+.five{
+
+    grid-column-start: 1;
+    grid-column-end: 6;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+
+
+}
+
+.five p{
+
+    background-color: white;
+    border: black solid;
+
+    padding: 20px;
+    
+
+}
+
+.five p img{
+
+
+    border: black solid ;
+    height: 50px;
+    
+
+}
+
+
+@media only screen and (max-width: 1200px) {
+
+
+    .three p img{
+
+      
+        position: relative;
+        align-content: center;
+
+        height: 80px;
+    }
+    
+  }
+
+  @media only screen and (max-width: 600px) {
+
+
+    five p{
+
+        background-color: white;
+        border: black solid;
+    
+
+        font: size 10px ;
+        padding: 10px;
+        
+    
+    }
+
+    .five p img{
+
+
+        
+
+        border: black solid ;
+        height: 20px;
+        position: relative;
+        align-content: center;
+        
+    
+    }
+    
+    
+  }
+
+
+
+    

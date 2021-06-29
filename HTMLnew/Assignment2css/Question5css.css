@@ -1,0 +1,11 @@
+table{
+    
+    
+    border-collapse: collapse ;
+    border: solid red;
+}
+td{
+
+    border-collapse: collapse;
+    border: red solid;
+}

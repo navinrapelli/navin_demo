@@ -1,0 +1,211 @@
+body{
+    
+    background:url('/Img/black.jpg') no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    
+}
+
+.navin{
+
+    background-color: chocolate;
+
+    color:white;
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: minmax(100px ,auto);
+    grid-gap: 20px;
+    padding: 20px;
+    margin: 20px;
+    
+    
+
+}
+.navin ul{
+
+    
+    text-align:justify;
+    font-size: 30px;
+
+}
+
+.navin p{
+
+   text-align: center;
+   font-size: 50px;
+
+
+}
+.navin header{
+    
+    padding: 20px;
+    
+}
+
+
+.navin header img{
+
+    height: 200px;
+    justify-items: start;
+    
+}
+
+#navin2{
+
+    
+    padding:20px;
+    margin: 20px;
+    background-color: chocolate;
+    color: white;
+    font-size: 15px;
+}
+#navin2 p{
+
+
+    font-size: 20px;
+}
+
+#navin3{
+   
+
+background-color: chocolate;
+
+    color:white;
+
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: minmax(100px ,auto);
+    grid-gap: 20px;
+    padding: 20px;
+    margin: 20px;
+
+
+}
+#navin3 p{
+
+    border: black solid;
+}
+    
+#navin33
+{
+   
+    background-color: chocolate;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+#navin34
+{
+   
+    background-color: chocolate;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+
+
+#navin3 p img{
+    
+    
+    height: 160px;
+
+}
+
+#navin35
+{
+   
+    background-color: chocolate;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+#navin36{
+   
+
+    background-color: chocolate;
+    
+        color:white;
+    
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: minmax(100px ,auto);
+        grid-gap: 20px;
+        padding: 20px;
+        margin: 20px;
+    
+    
+    }
+
+
+
+
+#navin36 p img{
+
+
+    height: 500px;
+}
+
+
+#navin37
+{
+   
+    background-color: chocolate;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+
+.five{
+   
+
+    background-color: chocolate;
+    
+        color:white;
+    
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-template-rows: minmax(100px ,auto);
+        grid-gap: 20px;
+        padding: 20px;
+        margin: 20px;
+    
+    
+    }
+
+
+    .five p{
+
+        color: white;
+        border: black solid;
+    
+        padding: 20px;
+        
+    
+    }
+    
+    .five p img{
+    
+    
+        border: black solid ;
+        height: 50px;
+        
+    
+    }
+

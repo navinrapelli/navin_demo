@@ -1,0 +1,100 @@
+body{
+
+    background: url('/Img/navin1.png') no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+
+}
+
+.main{
+
+
+    background-color: white;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 20px;
+    padding-bottom: 1000px;
+}
+.one 
+{
+
+    background-color:black;
+
+    padding: 20px;
+    margin-bottom: 20px;
+    outline:slateblue dotted 7px;
+}
+.one p{
+
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.two 
+{
+
+    background-color:black;
+    padding: 20px;
+    margin-bottom: 20px;
+    outline:slateblue dotted 7px;
+}
+
+.two p{
+
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.two p img{
+
+    height: 700px;
+} 
+
+
+.three
+{
+
+    background-color:black;
+    padding: 20px;
+    margin-bottom: 20px;
+    outline:slateblue dotted 7px;
+}
+
+.three p{
+
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.three p img{
+
+    height: 700px;
+} 
+
+
+
+.four
+{
+
+    background-color:black;
+    padding: 20px;
+    margin-bottom: 20px;
+    outline:slateblue dotted 7px;
+}
+
+.four p{
+
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.four p img{
+
+    height: 400px;
+} 

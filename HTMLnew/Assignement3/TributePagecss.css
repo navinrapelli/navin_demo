@@ -1,0 +1,42 @@
+body{
+
+    background-color: beige;
+}
+
+
+
+header{
+
+    text-align: center;
+    
+}
+
+.main p{
+  background-color: rgb(211, 211, 169);
+    border: solid rgb(112, 112, 66);
+    width:100%;
+
+}
+
+.div1{
+
+    border: rgb(73, 73, 49);
+    text-align: center;
+
+} 
+
+.records{
+
+      background-color: rgb(141, 141, 104);
+
+}
+.records h2{
+
+    text-decoration: bisque;
+}
+
+footer{
+  
+    background-color: rgb(189, 153, 110);
+    text-align: center;
+}

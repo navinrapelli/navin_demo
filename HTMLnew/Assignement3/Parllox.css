@@ -1,0 +1,57 @@
+.header1{
+
+    text-align: center;
+    width: 100%;
+   background-color: khaki;
+   background-attachment: fixed;
+  position:fixed;
+
+
+}
+.header1 h1{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+
+}
+
+.container{
+
+
+   max-width: 100%;
+    background:cornsilk;
+    font-size: 24px;
+    padding: 40px;
+}
+
+.parllox{
+
+    background:url('/Img/image23.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment:fixed;
+    height: 500px;
+
+
+}
+
+h1{
+
+    text-align: center;
+}
+
+.parllox1{
+
+    background: url('/Img/image45.jpg') no-repeat center; 
+    background-size: cover;
+    background-attachment: fixed;
+    height: 600px;
+}
+.parllox2{
+
+    background: url('/Img/image34.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+}
+
+

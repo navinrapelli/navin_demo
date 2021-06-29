@@ -1,0 +1,33 @@
+body{
+
+    background-color: lightblue;
+    
+}
+
+header{
+
+    text-align: center;
+}
+
+.div1{
+
+
+    text-align: center;
+}
+
+form{
+
+    display: inline-block ;
+    width: 40%;
+}
+
+.navin1{
+
+    text-align: left;
+    width: 10%;
+}
+
+.navin3 input{
+
+    color: green;
+}
